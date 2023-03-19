@@ -66,3 +66,11 @@ no_matching_books: Sorry, but I didn't find any matching books.
 help_readarr: Use {book_commands} to add a book to Readarr.
 no_metadata_profiles: "Error adding {kind}: no metadata profiles enabled for {app}! Please check your Searcharr configuration and try again."
 add_metadata_button: "Add Metadata: {metadata}"
+
+# Lidarr Support
+lidarr_disabled: Music support is disabled, please contact adminstrator for further assistance. 
+no_matching_artist: Sorry, but I didn't find any matching artist.
+no_matching_album: Sorry, but I didn't find any matching album.
+help_lidarr: Use {music_commands} to add some tunes to Lidarr.
+include_artist_title_in_cmd: Please include the artist title in the command, e.g. {commands}
+include_album_title_in_cmd: Please include the album title in the command, e.g. {commands}
